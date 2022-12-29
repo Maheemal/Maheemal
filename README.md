@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences ~> [Resume](https://resume.maheemal.com)
 
-- 📫 You can contact me via ~> **5fon6jsd@anonaddy.me**
+- 📫 You can contact me via ~> **hello@maheemal.com**
 
 - 👨‍💻 All of my projects are available on my website ~> [maheemal.com](https://www.maheemal.com/portfolio)
  
