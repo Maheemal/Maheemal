@@ -5,9 +5,11 @@
 
 
 
-- 📄 Know about my experiences ~> [CV](https://resume.maheemal.com)
+
 
 - 🌱 I’m currently learning **Rust and Python**
+
+- 📄 Know about my experiences ~> [Resume](https://resume.maheemal.com)
 
 - 📫 You can contact me via ~> **5fon6jsd@anonaddy.me**
 
